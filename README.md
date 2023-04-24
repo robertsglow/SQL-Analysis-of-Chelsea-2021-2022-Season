@@ -69,5 +69,9 @@ minutes_per_GA column
 
 Now, lets see the effects made
 
-![](14_.png)
+![](14-.png)
+
+
+Let's drop the 2 Columns with decimal places
+minutes_per_goal and minutes_per_GA Column
 
