@@ -108,3 +108,15 @@ Now we want to add a new column into our player_Attributes column.
 It has been effected, and it is empty 🧐 Lets Populate
 
 ![](20_.png)
+
+Looks like we are missing Mason mount in our Player_Attributes column. Lets add it and then proceed to join the 2 tables.
+
+![](21.png)
+
+**Left join Syntax**                          
+                           
+We are going to be joining our 2 tables using the left join, and we will be joining it on the player_no which is the primary key. Lets have it ☺
+
+![](21-.png)
+
+Alright! Bye for now 😇
