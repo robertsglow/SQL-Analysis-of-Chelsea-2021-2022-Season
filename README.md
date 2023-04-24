@@ -61,9 +61,13 @@ Now, we want to **round** the newly added columns using the round function. see 
 
 minutes_per_goal column
 
-![]()
+![](12-.png)
 
 minutes_per_GA column
 
-![]()
+![](13-.png)
+
+Now, lets see the effects made
+
+![](14_.png)
 
