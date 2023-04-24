@@ -75,3 +75,36 @@ Now, lets see the effects made
 Let's drop the 2 Columns with decimal places
 minutes_per_goal and minutes_per_GA Column
 
+![](14.png)
+
+Next, we want to change a Column name in Player_Attributes so i am going to be using the sp(stored procedure)command. Have a look at it.
+
+![](14_.png)
+
+There are some corrections we need to make. we want to change Lakuku's player_no from 29 to 9.
+
+![](15_.png)
+
+Now, we want to update a column in our  player_Stats table
+
+![](16_.png)
+
+Next, we want to drop player no 10 and replace with  a new player i.e drop Christian Pulisic
+
+![](17_.png)
+
+Now we can see that it has been effected.
+
+The next on the list is to add another player into our player_Stats table, that will replace christian pulisic that was deleted.
+
+![](18_.png)
+
+
+Now we want to add a new column into our player_Attributes column.
+
+![](19_.png)
+
+
+It has been effected, and it is empty 🧐 Lets Populate
+
+![](20_.png)
